@@ -1,8 +1,8 @@
-# Modo Process Unity [![License](https://img.shields.io/badge/License-MIT-lightgrey.svg?style=flat)](http://mit-license.org)
+# Modo Process Unity (NOT WORKING - UNDER DEVELOPMENT) [![License](https://img.shields.io/badge/License-MIT-lightgrey.svg?style=flat)](http://mit-license.org)
 ![](/UnityProject/Assets/Screenshots/ModoProcessTitle.png)
 
 Repository that show how to trigger a headless Modo (via Modo Command Line) operation from inside Unity.
-This repository is based on [BlenderProcessUnity](https://github.com/razluta/BlenderProcessUnity) project from Razvan Luta.
+This repository is based on [BlenderProcessUnity](https://github.com/razluta/BlenderProcessUnity) project from [Razvan Luta](https://github.com/razluta).
 
 ## Using the tool
 The tool will only run on Windows currently, as it uses a .bat file to trigger Modo.
