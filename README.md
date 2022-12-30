@@ -68,6 +68,6 @@ The scripts can be easily modified to include several arguments from Unity or pe
 - [Unity MenuItem](https://docs.unity3d.com/ScriptReference/MenuItem.html)
 - [C# Process](https://docs.microsoft.com/en-us/dotnet/api/system.diagnostics.process.start?view=net-5.0)
 - [Windows Batch Scripting](https://en.wikibooks.org/wiki/Windows_Batch_Scripting)
-- [BlenderProcessUnity](https://github.com/razluta/BlenderProcessUnity)
+- [BlenderProcessUnity by Razvan Luta](https://github.com/razluta/BlenderProcessUnity)
 - [Modo SDK Headless](https://learn.foundry.com/modo/developers/latest/sdk/pages/general/systems/Headless.html#)
 - [Modo Python Reference](https://learn.foundry.com/modo/developers/latest/sdk/python/python.html)
